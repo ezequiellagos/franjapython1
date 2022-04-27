@@ -4,11 +4,11 @@
 es_estudiante = True
 trabaja = False
 
-# print(es_estudiante and trabaja)
+print(es_estudiante and trabaja)
 
-# print(es_estudiante or trabaja)
+print(es_estudiante or trabaja)
 
-# print(not es_estudiante)
+print(not es_estudiante)
 
 # Operadores de comparación
 numero1 = 5
