@@ -11,5 +11,12 @@ lista_lista = [
 
 print( type(lista_numeros) )
 
-for i in lista_lista:
-    print(i[0])
+for items in lista_lista:
+    print(items[0])
+
+# Ejemplo
+nombre = "Juan"
+nombre_2 =  "Juan 2"
+lista_juanes = [nombre, nombre_2]
+for juan in lista_juanes:
+    print(juan)
