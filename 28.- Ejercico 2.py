@@ -1,0 +1,1 @@
+# Escribir un programa que lea un archivo del ejercicio 1 y agrege cada linea en una lista y luego imprima la lista.
